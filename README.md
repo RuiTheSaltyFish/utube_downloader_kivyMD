@@ -1,5 +1,5 @@
 # utube_downloader_kivyMD
-used pytube and kivy to create downloader 
+used pytube and kivy to create downloader, just created this project for pratice purpose
 
 # Notice
 please note that the video only will download the 720p,
